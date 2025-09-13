@@ -448,7 +448,7 @@ export default function Index() {
               <div className="w-8 h-8 bg-primary rounded flex items-center justify-center cursor-pointer">
                 <Icon name="Play" size={20} className="text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold cursor-pointer">YouTube V2</span>
+              <span className="text-xl font-bold cursor-pointer">YouTube V2</span>\n              \n              {/* Sprunki Game Link */}\n              <a \n                href="/sprunki" \n                className="ml-4 px-4 py-2 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-full font-bold hover:scale-105 transition-transform animate-pulse text-sm"\n              >\n                🎵 ИГРАТЬ В СПРУНКИ!\n              </a>
             </div>
           </div>
 
