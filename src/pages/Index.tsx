@@ -41,97 +41,97 @@ interface Comment {
 const sampleVideos: Video[] = [
   {
     id: '1',
-    title: 'React TypeScript Tutorial - Build Modern Apps',
-    thumbnail: '/img/959086c2-b7a6-411d-957d-85fc7d861b80.jpg',
-    channel: 'DevMaster',
+    title: 'СПРУНКИ ПОЛНОЕ ПРОХОЖДЕНИЕ! ВСЕ СЕКРЕТЫ И ПЕРСОНАЖИ',
+    thumbnail: '/img/c1a2dfc7-19f2-4068-97b7-62dc9e3a4535.jpg',
+    channel: 'SprunKids TV',
     channelAvatar: '',
-    views: '2.1M просмотров',
-    uploadTime: '3 дня назад',
-    duration: '24:15',
+    views: '3.2M просмотров',
+    uploadTime: '1 день назад',
+    duration: '18:45',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
-    description: 'Изучаем современную разработку на React и TypeScript. В этом видео мы создадим полноценное приложение с использованием лучших практик.',
-    likes: 15420,
-    dislikes: 234,
+    description: '🎵 Полное прохождение игры Спрунки! Показываю все секретные персонажи, комбинации звуков и пасхалки! Лучший гайд по Sprunki Incredibox для детей и взрослых!',
+    likes: 45200,
+    dislikes: 892,
     isLiked: false,
     isDisliked: false
   },
   {
     id: '2',
-    title: 'Секреты Итальянской Кухни - Паста Карбонара',
-    thumbnail: '/img/5607a143-ddeb-4189-b303-d7a7b8348473.jpg',
-    channel: 'Кулинарный Мир',
+    title: 'РОБЛОКС ПОБЕГ ИЗ ТЮРЬМЫ! НОВЫЙ СПОСОБ 2024',
+    thumbnail: '/img/86834efc-4338-480b-b426-29ab1a0f7852.jpg',
+    channel: 'Roblox Master',
     channelAvatar: '',
-    views: '856K просмотров',
-    uploadTime: '1 день назад',
-    duration: '18:42',
+    views: '2.8M просмотров',
+    uploadTime: '3 часа назад',
+    duration: '12:30',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
-    description: 'Готовим настоящую итальянскую пасту карбонара по традиционному рецепту. Секреты от шеф-повара!',
-    likes: 8950,
-    dislikes: 120,
+    description: '🔥 САМЫЙ КРУТОЙ СПОСОБ ПОБЕГА! Показываю секретный глитч в Jailbreak Roblox, который работает в 2024 году! АДМИНЫ НЕ ЗНАЮТ!',
+    likes: 38900,
+    dislikes: 1250,
     isLiked: false,
     isDisliked: false
   },
   {
     id: '3',
-    title: 'Epic Gaming Moments - Best Highlights 2024',
-    thumbnail: '/img/74b18fa9-b47a-4732-a6ae-01b1c4fb1ba6.jpg',
-    channel: 'GameZone Pro',
+    title: 'СПРУНКИ ХОРРОР ВЕРСИЯ! САМЫЕ СТРАШНЫЕ ПЕРСОНАЖИ',
+    thumbnail: '/img/ddb81c3f-f5d2-4f46-a4c2-150c35d85000.jpg',
+    channel: 'SprunKids TV',
     channelAvatar: '',
-    views: '4.2M просмотров',
-    uploadTime: '5 дней назад',
-    duration: '31:08',
+    views: '1.9M просмотров',
+    uploadTime: '2 дня назад',
+    duration: '15:22',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
-    description: 'Лучшие игровые моменты 2024 года! Эпичные победы, невероятные комбо и самые зрелищные сцены.',
-    likes: 42350,
-    dislikes: 890,
+    description: '😱 ВНИМАНИЕ! Хоррор версия Спрунки! Показываю самых страшных персонажей и секретные комбинации для жуткой музыки! НЕ СМОТРЕТЬ НОЧЬЮ!',
+    likes: 29800,
+    dislikes: 2100,
     isLiked: false,
     isDisliked: false
   },
   {
     id: '4',
-    title: 'Создание UI/UX Дизайна с Нуля',
-    thumbnail: '/img/959086c2-b7a6-411d-957d-85fc7d861b80.jpg',
-    channel: 'DesignPro',
+    title: 'РОБЛОКС ВСЕ КОДЫ НА РОБУКСЫ! РАБОЧИЕ 2024',
+    thumbnail: '/img/86834efc-4338-480b-b426-29ab1a0f7852.jpg',
+    channel: 'Roblox Master',
     channelAvatar: '',
-    views: '1.5M просмотров',
-    uploadTime: '2 недели назад',
-    duration: '45:23',
+    views: '5.7M просмотров',
+    uploadTime: '1 неделю назад',
+    duration: '10:15',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4',
-    description: 'Полное руководство по созданию современного UI/UX дизайна. От концепции до финального прототипа.',
-    likes: 28720,
-    dislikes: 456,
+    description: '💰 ВСЕ РАБОЧИЕ КОДЫ НА БЕСПЛАТНЫЕ РОБУКСЫ! Показываю секретные промокоды Roblox 2024! ПОЛУЧИ 1000 РОБУКСОВ БЕСПЛАТНО!',
+    likes: 89400,
+    dislikes: 5200,
     isLiked: false,
     isDisliked: false
   },
   {
     id: '5',
-    title: 'Домашняя Выпечка - Французские Круассаны',
-    thumbnail: '/img/5607a143-ddeb-4189-b303-d7a7b8348473.jpg',
-    channel: 'Пекарня Дома',
+    title: 'СПРУНКИ VS РОБЛОКС - КТО КРУЧЕ? СРАВНЕНИЕ ИГОР',
+    thumbnail: '/img/c1a2dfc7-19f2-4068-97b7-62dc9e3a4535.jpg',
+    channel: 'Game Battle',
     channelAvatar: '',
-    views: '920K просмотров',
-    uploadTime: '4 дня назад',
-    duration: '22:17',
+    views: '1.4M просмотров',
+    uploadTime: '5 дней назад',
+    duration: '16:40',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4',
-    description: 'Учимся печь настоящие французские круассаны в домашних условиях. Пошаговый рецепт с секретами.',
-    likes: 12680,
-    dislikes: 89,
+    description: '⚔️ ЭПИЧНАЯ БИТВА! Сравниваю Sprunki и Roblox - какая игра лучше? Тестирую геймплей, графику, музыку! Мое честное мнение!',
+    likes: 22150,
+    dislikes: 890,
     isLiked: false,
     isDisliked: false
   },
   {
     id: '6',
-    title: 'Cyberpunk 2077 - Новые Моды 2024',
-    thumbnail: '/img/74b18fa9-b47a-4732-a6ae-01b1c4fb1ba6.jpg',
-    channel: 'ModsWorld',
+    title: 'НОВЫЕ ПЕРСОНАЖИ СПРУНКИ! ОБНОВЛЕНИЕ 2024',
+    thumbnail: '/img/ddb81c3f-f5d2-4f46-a4c2-150c35d85000.jpg',
+    channel: 'SprunKids TV',
     channelAvatar: '',
-    views: '3.1M просмотров',
-    uploadTime: '1 неделю назад',
-    duration: '28:54',
+    views: '2.6M просмотров',
+    uploadTime: '4 дня назад',
+    duration: '14:28',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4',
-    description: 'Обзор лучших модификаций для Cyberpunk 2077 в 2024 году. Графика, геймплей и новый контент.',
-    likes: 35420,
-    dislikes: 1230,
+    description: '🆕 НОВОЕ ОБНОВЛЕНИЕ СПРУНКИ! Показываю всех новых персонажей, их звуки и анимации! Теперь можно создавать еще более крутую музыку!',
+    likes: 41300,
+    dislikes: 760,
     isLiked: false,
     isDisliked: false
   }
@@ -140,41 +140,50 @@ const sampleVideos: Video[] = [
 const sampleComments: Comment[] = [
   {
     id: '1',
-    author: 'TechEnthusiast',
+    author: 'SprunFan2024',
     authorAvatar: '',
-    content: 'Отличное объяснение! Спасибо за качественный контент 👍',
-    timestamp: '2 часа назад',
-    likes: 45,
+    content: 'СПРУНКИ ЛУЧШАЯ ИГРА! Спасибо за гайд, теперь знаю все секреты! 🎵✨',
+    timestamp: '30 минут назад',
+    likes: 245,
     isLiked: false,
     replies: [
       {
         id: '1-1',
-        author: 'DevMaster',
+        author: 'SprunKids TV',
         authorAvatar: '',
-        content: 'Благодарю за поддержку! Больше видео уже в разработке',
-        timestamp: '1 час назад',
-        likes: 12,
+        content: 'Рад что помог! Скоро выйдет видео про новых персонажей! 🔥',
+        timestamp: '15 минут назад',
+        likes: 89,
         isLiked: false
       }
     ]
   },
   {
     id: '2',
-    author: 'CodeNewbie',
+    author: 'RobloxGamer',
     authorAvatar: '',
-    content: 'Можете ли вы сделать видео про тестирование в React?',
-    timestamp: '4 часа назад',
-    likes: 23,
+    content: 'Можете снять видео про новую карту в роблокс? 🎮',
+    timestamp: '1 час назад',
+    likes: 156,
     isLiked: false
   },
   {
     id: '3',
-    author: 'WebDeveloper99',
+    author: 'МузыкальныйГений',
     authorAvatar: '',
-    content: 'Очень помогло в работе над проектом. Все понятно и по делу!',
-    timestamp: '6 часов назад',
-    likes: 67,
+    content: 'Сделал свою музыку в Спрунки благодаря вашему видео! ТОП КОНТЕНТ! 🎶',
+    timestamp: '2 часа назад',
+    likes: 312,
     isLiked: true
+  },
+  {
+    id: '4',
+    author: 'Игроман2024',
+    authorAvatar: '',
+    content: 'ПЕРВЫЙ! Кто еще любит Спрунки и Роблокс? ❤️',
+    timestamp: '3 часа назад',
+    likes: 78,
+    isLiked: false
   }
 ];
 
@@ -188,6 +197,9 @@ export default function Index() {
   const [comments, setComments] = useState<Comment[]>(sampleComments);
   const [newComment, setNewComment] = useState('');
   const [isPlaying, setIsPlaying] = useState(false);
+  const [isSubscribed, setIsSubscribed] = useState(false);
+  const [subscriberCount, setSubscriberCount] = useState(0);
+  const [selectedCategory, setSelectedCategory] = useState('Все');
   const videoRef = useRef<HTMLVideoElement>(null);
 
   useEffect(() => {
@@ -267,6 +279,57 @@ export default function Index() {
       }
       return comment;
     }));
+  };
+
+  const handleSubscribe = () => {
+    setIsSubscribed(!isSubscribed);
+    setSubscriberCount(prev => isSubscribed ? prev - 1 : prev + 1);
+  };
+
+  const handleCategoryFilter = (category: string) => {
+    setSelectedCategory(category);
+    if (category === 'Все') {
+      setFilteredVideos(sampleVideos);
+    } else {
+      const categoryMap: { [key: string]: string[] } = {
+        'Спрунки': ['спрунки', 'sprunki'],
+        'Роблокс': ['роблокс', 'roblox'],
+        'Игры': ['игр', 'game', 'побег', 'коды'],
+        'Музыка': ['музык', 'звук', 'персонаж']
+      };
+      
+      const keywords = categoryMap[category] || [];
+      const filtered = sampleVideos.filter(video => 
+        keywords.some(keyword => 
+          video.title.toLowerCase().includes(keyword.toLowerCase())
+        )
+      );
+      setFilteredVideos(filtered);
+    }
+  };
+
+  const handleShare = async () => {
+    if (currentVideo) {
+      try {
+        await navigator.share({
+          title: currentVideo.title,
+          text: currentVideo.description,
+          url: window.location.href
+        });
+      } catch {
+        navigator.clipboard.writeText(window.location.href);
+        alert('Ссылка скопирована!');
+      }
+    }
+  };
+
+  const handleDownload = () => {
+    if (currentVideo?.videoUrl) {
+      const a = document.createElement('a');
+      a.href = currentVideo.videoUrl;
+      a.download = `${currentVideo.title}.mp4`;
+      a.click();
+    }
   };
 
   const handleDragOver = (e: React.DragEvent) => {
@@ -373,10 +436,15 @@ export default function Index() {
       <header className="sticky top-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b">
         <div className="flex items-center justify-between px-4 py-3">
           <div className="flex items-center gap-4">
-            <Button variant="ghost" size="sm" className="p-2">
+            <Button 
+              variant="ghost" 
+              size="sm" 
+              className="p-2"
+              onClick={() => alert('Меню пока не работает! Используйте боковую панель')}
+            >
               <Icon name="Menu" size={24} />
             </Button>
-            <div className="flex items-center gap-2" onClick={() => setCurrentTab('home')}>
+            <div className="flex items-center gap-2" onClick={() => {setCurrentTab('home'); setCurrentVideo(null);}}>
               <div className="w-8 h-8 bg-primary rounded flex items-center justify-center cursor-pointer">
                 <Icon name="Play" size={20} className="text-primary-foreground" />
               </div>
@@ -403,16 +471,29 @@ export default function Index() {
           </div>
 
           <div className="flex items-center gap-2">
-            <Button variant="ghost" size="sm" className="p-2">
+            <Button 
+              variant="ghost" 
+              size="sm" 
+              className="p-2"
+              onClick={() => setCurrentTab('upload')}
+            >
               <Icon name="Video" size={24} />
             </Button>
-            <Button variant="ghost" size="sm" className="p-2 relative">
+            <Button 
+              variant="ghost" 
+              size="sm" 
+              className="p-2 relative"
+              onClick={() => alert('У вас 3 новых уведомления:\n1. Новый подписчик!\n2. Комментарий к видео\n3. Лайк на видео')}
+            >
               <Icon name="Bell" size={24} />
               <Badge className="absolute -top-1 -right-1 bg-primary text-primary-foreground text-xs px-1.5 py-0.5 min-w-0 h-5 flex items-center">
                 3
               </Badge>
             </Button>
-            <Avatar className="w-8 h-8 cursor-pointer">
+            <Avatar 
+              className="w-8 h-8 cursor-pointer"
+              onClick={() => setCurrentTab('profile')}
+            >
               <AvatarFallback className="bg-primary text-primary-foreground">
                 У
               </AvatarFallback>
@@ -486,11 +567,12 @@ export default function Index() {
               <div className="flex items-center gap-4 mb-6">
                 <h1 className="text-2xl font-bold">Рекомендации</h1>
                 <div className="flex gap-2">
-                  {['Все', 'Технологии', 'Кулинария', 'Игры', 'Музыка'].map((category) => (
+                  {['Все', 'Спрунки', 'Роблокс', 'Игры', 'Музыка'].map((category) => (
                     <Badge
                       key={category}
-                      variant="secondary"
+                      variant={selectedCategory === category ? 'default' : 'secondary'}
                       className="px-3 py-1 cursor-pointer hover:bg-primary hover:text-primary-foreground transition-colors"
+                      onClick={() => handleCategoryFilter(category)}
                     >
                       {category}
                     </Badge>
@@ -555,10 +637,13 @@ export default function Index() {
                         </Avatar>
                         <div>
                           <p className="font-medium">{currentVideo.channel}</p>
-                          <p className="text-sm text-muted-foreground">125K подписчиков</p>
+                          <p className="text-sm text-muted-foreground">{subscriberCount.toLocaleString()} подписчиков</p>
                         </div>
-                        <Button className="youtube-button ml-4">
-                          Подписаться
+                        <Button 
+                          className={`ml-4 ${isSubscribed ? 'bg-secondary text-secondary-foreground hover:bg-secondary/80' : 'youtube-button'}`}
+                          onClick={handleSubscribe}
+                        >
+                          {isSubscribed ? 'Подписка оформлена' : 'Подписаться'}
                         </Button>
                       </div>
                       
@@ -584,12 +669,22 @@ export default function Index() {
                           </Button>
                         </div>
                         
-                        <Button variant="outline" size="sm" className="rounded-full px-4">
+                        <Button 
+                          variant="outline" 
+                          size="sm" 
+                          className="rounded-full px-4"
+                          onClick={handleShare}
+                        >
                           <Icon name="Share" size={16} className="mr-2" />
                           Поделиться
                         </Button>
                         
-                        <Button variant="outline" size="sm" className="rounded-full px-4">
+                        <Button 
+                          variant="outline" 
+                          size="sm" 
+                          className="rounded-full px-4"
+                          onClick={handleDownload}
+                        >
                           <Icon name="Download" size={16} className="mr-2" />
                           Скачать
                         </Button>
@@ -754,7 +849,7 @@ export default function Index() {
                 </Avatar>
                 <div>
                   <h1 className="text-3xl font-bold mb-2">Мой Канал</h1>
-                  <p className="text-muted-foreground mb-4">@mychannel • 125K подписчиков</p>
+                  <p className="text-muted-foreground mb-4">@mychannel • {subscriberCount} подписчиков</p>
                   <div className="flex gap-4">
                     <Button className="youtube-button">
                       <Icon name="Settings" size={16} className="mr-2" />
@@ -807,7 +902,7 @@ export default function Index() {
                           <div className="text-sm text-muted-foreground">Видео</div>
                         </div>
                         <div className="text-center">
-                          <div className="text-2xl font-bold text-primary">125K</div>
+                          <div className="text-2xl font-bold text-primary">{subscriberCount}</div>
                           <div className="text-sm text-muted-foreground">Подписчиков</div>
                         </div>
                         <div className="text-center">
